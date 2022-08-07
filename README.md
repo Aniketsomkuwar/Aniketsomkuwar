@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-
-
-Here are some ideas to get you started:
+- ✨ A self starter programmer
 
 - 🔭 I’m currently working on React
 
