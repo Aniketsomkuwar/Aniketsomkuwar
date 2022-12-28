@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniket Somkuwar</h1>
 <h3 align="center">A Frontend Developer From India</h3>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently working on **React.JS**
 
-- 👯 I’m looking to collaborate on **WEB3**
+<!-- - 👯 I’m looking to collaborate on **WEB3** -->
 
-- 👨‍💻 All of my projects are available at [https://aniketsomkuwar.github.io/](https://aniketsomkuwar.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://aniketsomkuwar.github.io/](https://aniketsomkuwar.github.io/) -->
 
 - 💬 Ask me about **Web Development**
 
