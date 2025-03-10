@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsomkuwar&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsomkuwar" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Web3**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 💬 Ask me about **Web Development**
 
